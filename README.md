@@ -1,4 +1,4 @@
-# Python E-Mail Autoresponder
+# Python E-Mail Autoresponder - An Awesome Project
 
 Simple python script that connects to a mail server via IMAP and SMTP and replies to 
 all emails in the inbox coming from a certain sender address using the Reply-To header.
